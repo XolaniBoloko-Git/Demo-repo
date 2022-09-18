@@ -3,4 +3,4 @@ My demo repo
 
 ## Subheader
 
-This is text uynder the sub header!
+This is text under the sub header!
